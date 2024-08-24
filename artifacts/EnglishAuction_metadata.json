@@ -274,7 +274,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Re-learning Solidity/English Auctions/MyImplementation.sol": "EnglishAuction"
+			"Re-learning Solidity/English-Auction/EnglishAuction.sol": "EnglishAuction"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -304,12 +304,12 @@
 				"dweb:/ipfs/QmeJQCtZrQjtJLr6u7ZHWeH3pBnjtLWzvRrKViAi7UZqxL"
 			]
 		},
-		"Re-learning Solidity/English Auctions/MyImplementation.sol": {
-			"keccak256": "0x5b52c62cb6faaf92568f967670a714aaca23b30a8f9383cf97014e6358e3d786",
+		"Re-learning Solidity/English-Auction/EnglishAuction.sol": {
+			"keccak256": "0xdc4028ed994fdbc0cb5d54e7311f4cb54eb2e54162873621556e99fb6059aacf",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://26f460ecffbcebf2ddae3b3f291796ac0bf03a5190f66674e4253ae813b45fd1",
-				"dweb:/ipfs/QmNYYRznh1QHLpUh5uAmwqjte7mj37gmQ9VH9EVeHxVEka"
+				"bzz-raw://e4f221dd8315ef293a43b37a769759ca149ecb1bda623901ed74e8ff2017e34a",
+				"dweb:/ipfs/QmV4QAQzcotGv5rxd3nriHQfrxC6CfcfK7WHYSdT7gnzgW"
 			]
 		}
 	},

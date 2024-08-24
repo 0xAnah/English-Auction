@@ -89,8 +89,7 @@ contract EnglishAuction {
     }
 
     function withdraw() public {
-        // ensure highest bidder cannot withdraw his bid
-        require(msg.sender != highestBidder, "Highest bidder cannot withdraw his bid");
+
         uint256 bal = bids[msg.sender];
         bids[msg.sender] = 0;
         (bool success, ) = msg.sender.call{value: bal}("");
